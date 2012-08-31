@@ -1,6 +1,8 @@
 # Octopress: Naked
 
-Naked is a theme for Octopress that sets up a bare project that you can fully customize from scratch.
+*You love all of Octopress's automation, but don't want any of the fluff. You want Naked.*
+
+Naked is a theme for Octopress that sets up a bare project which you can fully customize from scratch.
 
 ## Install
 
