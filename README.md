@@ -1,22 +1,12 @@
-#Slash
+# Octopress: Naked
 
-Slash is a minimal theme for Octopress.
+Naked is a theme for Octopress that sets up a bare project that you can fully customize from scratch.
 
-##Install
+## Install
 
-Type the code below in terminal.
+	cd octopress
+	git clone git://github.com/chetan51/octopress-naked.git .themes/naked
+	rake install['naked']
+	rake generate
 
-	$ cd octopress
-	$ git clone git://github.com/tommy351/Octopress-Theme-Slash.git .themes/slash
-	$ rake install['slash']
-	$ rake generate
-
-Have problems when installing with zsh? Try `rake install\['slash'\]` instead.
-
-##Features
-
-- Read `alt` property of photos and add it below photos.
-- Built-in [Fancybox](http://fancyapps.com/fancybox/) enables you to showcase your works easily.
-- Resize HTML5 `video` and embedded video like `iframe`, `object` to page width automatically.
-- Supports responsive layouts. Whatever devices you use, you can get a great experience.
-- [More info…](http://zespia.tw/Octopress-Theme-Slash/)
+Have problems when installing with zsh? Try `rake install\['naked'\]` instead.
